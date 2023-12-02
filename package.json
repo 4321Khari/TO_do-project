@@ -1,0 +1,23 @@
+{
+  "name": "to_do-project",
+  "version": "1.0.0",
+  "description": "my to_do web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4321Khari/TO_do-project.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4321Khari/TO_do-project/issues"
+  },
+  "homepage": "https://github.com/4321Khari/TO_do-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
